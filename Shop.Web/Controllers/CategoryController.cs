@@ -23,6 +23,7 @@ namespace Shop.Web.Controllers
             return View();
         }
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public IActionResult Create(Category category)
         {
                 if(ModelState.IsValid)
@@ -50,6 +51,7 @@ namespace Shop.Web.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public IActionResult Edit(Category category)
         {
             if (ModelState.IsValid)
