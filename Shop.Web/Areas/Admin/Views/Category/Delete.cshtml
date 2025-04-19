@@ -1,0 +1,24 @@
+﻿@model Category
+@{
+    ViewBag.PageTitle = "Category Management";
+    ViewBag.CardTitle = "Delete Category";
+}
+
+<form method="post" asp-action="Delete" asp-controller="Category">
+    @Html.AntiForgeryToken()
+    <div class="mb-3">
+        <input hidden asp-for="Id" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" readonly class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description"></label>
+        <input asp-for="Description" readonly class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <button class="btn btn-danger" type="submit">Delete</button>
+    <a class="btn btn-success" asp-action="Index" asp-controller="Category">Go To Index</a>
+</form>

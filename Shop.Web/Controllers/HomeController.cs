@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using Shop.Web.Models;
+using Shop.Entities.Models;
 using System.Diagnostics;
 
 namespace Shop.Web.Controllers
@@ -28,5 +28,7 @@ namespace Shop.Web.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+       
     }
 }

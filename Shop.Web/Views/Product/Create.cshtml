@@ -1,0 +1,47 @@
+﻿@model ProductVM
+@{
+    ViewBag.PageTitle = "Product Management";
+    ViewBag.CardTitle = "Create Product";
+}
+<form method="post" asp-action="Create" asp-controller="Product">
+    @Html.AntiForgeryToken()
+    @* <div class="mb-3">
+        <label asp-for="Id"></label>
+        <input asp-for="Id" class="form-control" />
+        <span asp-validation-for="Id" class="text-danger"></span>
+    </div> *@
+    <div class="mb-3">
+        <label asp-for="Product.Name"></label>
+        <input asp-for="Product.Name" class="form-control" />
+        <span asp-validation-for="Product.Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Product.Description"></label>
+        <input asp-for="Product.Description" class="form-control" />
+        <span asp-validation-for="Product.Description" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Product.Price"></label>
+        <input asp-for="Product.Price" class="form-control" />
+        <span asp-validation-for="Product.Price" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Product.Img"></label>
+        @* id="imgFile" *@
+        <input asp-for="Product.Img" type="file" name="Upload"  class="form-control" />
+        <span asp-validation-for="Product.Img" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Product.CategoryId"></label>
+        <select asp-for="Product.CategoryId" asp-items="Model.CategoryList" class="form-control">
+            <option disapled value="">---- Select Category</option>
+        </select>
+        <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+    </div>
+    <button class="btn btn-success" type="submit">Submit</button>
+    <a class="btn btn-danger" asp-action="Index" asp-controller="Category">Go To Index</a>
+</form>
+
+@section scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
