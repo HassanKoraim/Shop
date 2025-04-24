@@ -12,6 +12,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 builder.Services.AddScoped<IUnitOfWork,UnitOfWork>();
+builder.Services.AddHttpContextAccessor();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -31,6 +32,9 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
-// {area=Admin}/
+    pattern: "{area=Admin}/{controller=Product}/{action=Index}/{id?}"); //{id?}
+app.MapControllerRoute(
+    name: "customer",
+    pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
+
 app.Run();

@@ -11,14 +11,21 @@ namespace Shop.Web.Controllers
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
-        public ProductController(IUnitOfWork unitOfWork)
+        private readonly IWebHostEnvironment _webHostEnvironment;
+        public ProductController(IUnitOfWork unitOfWork, IWebHostEnvironment webHostEnvironment)
         {
             _unitOfWork = unitOfWork;
+            _webHostEnvironment = webHostEnvironment;
         }
         public IActionResult Index()
         {
-            var Products = _unitOfWork.Product.GetAll();
-            return View(Products);
+            return View();
+        }
+        
+        public IActionResult GetData()
+        {
+            var products = _unitOfWork.Product.GetAll(includeWord:"Category");
+            return Json(new { data = products });
         }
         
         [HttpGet]
@@ -41,12 +48,26 @@ namespace Shop.Web.Controllers
             });*/
             return View(productVM);           
         }
+
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(ProductVM productVM)
+        public IActionResult Create(ProductVM productVM, IFormFile file)
         {
             if(ModelState.IsValid)
             {
+                string rootPath = _webHostEnvironment.WebRootPath;
+                if(file != null)
+                {
+                    string filename = Guid.NewGuid().ToString();
+                    var upload = Path.Combine(rootPath, @"images/products");
+                    var ext = Path.GetExtension(file.FileName);
+                    using (var filestream = new FileStream(Path.Combine(upload, filename + ext), FileMode.Create))
+                    {
+                        file.CopyTo(filestream);
+                    }
+                    // Save the image path to the database
+                    productVM.Product.Img = @"\images\products\" + filename + ext;
+                }
                 _unitOfWork.Product.Add(productVM.Product);
                 _unitOfWork.Complete();
                 TempData["Create"] = $"{productVM.Product.Name} has Created successfully";

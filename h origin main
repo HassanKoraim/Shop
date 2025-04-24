@@ -1,0 +1,53 @@
+[33mcommit 302acbf6046627e01fc62d817130260095f33c1c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Hassan Koraim <hassankoraim2@gmail.com>
+Date:   Sat Apr 19 11:51:58 2025 +0200
+
+    Add DataAccess
+
+[33mcommit 578a49fb718d15355b5f3ea4effa8e47fb0bbfe5[m
+Author: Hassan Koraim <hassankoraim2@gmail.com>
+Date:   Sat Apr 19 11:49:25 2025 +0200
+
+    Add Entities
+
+[33mcommit a81395773c09790b136407f6ec96aa89944f745c[m
+Author: Hassan Koraim <hassankoraim2@gmail.com>
+Date:   Thu Apr 10 15:01:46 2025 +0200
+
+    Add 'Edit' and 'Delete' buttons to Index View
+
+[33mcommit 433017a77cc7c9b3204f2cdfb645927f199fe88f[m
+Author: Hassan Koraim <hassankoraim2@gmail.com>
+Date:   Thu Apr 10 14:30:47 2025 +0200
+
+    Add 'ValidateAntiForgeryToken' To the post action methods
+
+[33mcommit 2c78659f7216368adaa1e2930558874f6c836306[m
+Author: Hassan Koraim <hassankoraim2@gmail.com>
+Date:   Thu Apr 10 14:27:05 2025 +0200
+
+    first commit
+
+[33mcommit 33c3417e245f6cfd8e77aa25d971374a95a74626[m
+Author: Hassan Koraim <hassankoraim2@gmail.com>
+Date:   Thu Apr 10 14:22:21 2025 +0200
+
+    Add Data
+
+[33mcommit 7d4a5b9b974be280a01a0ba85df5704f7dd0498e[m
+Author: Hassan Koraim <hassankoraim2@gmail.com>
+Date:   Thu Apr 10 14:21:59 2025 +0200
+
+    Add Controllers
+
+[33mcommit c6eaa5ee23cc717b39512d863bbb701397c891a7[m
+Author: Hassan Koraim <hassankoraim2@gmail.com>
+Date:   Thu Apr 10 14:21:17 2025 +0200
+
+    Add Views
+
+[33mcommit 553ba6131c998ca02b80e8fd79889434936be1ed[m
+Author: Hassan Koraim <hassankoraim2@gmail.com>
+Date:   Thu Apr 10 14:20:53 2025 +0200
+
+    Add Models

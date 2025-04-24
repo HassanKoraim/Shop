@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+HRMi/SIxflMwLwCMyn3QXTwnDKUVJUVjqKszauZLnQ=",
+  "Hash": "pq04dIN/+wEfatjWltzHqLPWtOfJ2VwuFYHz4JravYc=",
   "Source": "Shop.Web",
   "BasePath": "_content/Shop.Web",
   "Mode": "Default",
@@ -668,6 +668,69 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\customer\\assets\\favicon.ico",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "customer/assets/favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "devepoo3hg",
+      "Integrity": "ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\customer\\assets\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\customer\\css\\styles.css",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "customer/css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "050gf1li0j",
+      "Integrity": "TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\customer\\css\\styles.css"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\customer\\js\\scripts.js",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "customer/js/scripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7950c2etpe",
+      "Integrity": "ZfEVpnGr+TXr1LfZZrITWxGlhBLv4FhqV6hrt5xhoTE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\customer\\js\\scripts.js"
+    },
+    {
       "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\favicon.ico",
       "SourceId": "Shop.Web",
       "SourceType": "Discovered",
@@ -687,6 +750,174 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\16e10847-9650-4572-9d17-ca52091fa3a9.PNG",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/16e10847-9650-4572-9d17-ca52091fa3a9#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gx17yr82av",
+      "Integrity": "fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\16e10847-9650-4572-9d17-ca52091fa3a9.PNG"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\5dfaa964-15e6-424f-88ca-0a6b4b46244f.jpg",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/5dfaa964-15e6-424f-88ca-0a6b4b46244f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qu02bi53xr",
+      "Integrity": "LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\5dfaa964-15e6-424f-88ca-0a6b4b46244f.jpg"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\5f9403a1-414d-4cc1-b3fa-1265dd204aef.jpg",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/5f9403a1-414d-4cc1-b3fa-1265dd204aef#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qu02bi53xr",
+      "Integrity": "LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\5f9403a1-414d-4cc1-b3fa-1265dd204aef.jpg"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\849bb687-1f7d-4a63-88ce-1e8dbac3c635.PNG",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/849bb687-1f7d-4a63-88ce-1e8dbac3c635#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gx17yr82av",
+      "Integrity": "fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\849bb687-1f7d-4a63-88ce-1e8dbac3c635.PNG"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\8b2aa672-4a35-4173-84ba-c2d77dcc6206.PNG",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/8b2aa672-4a35-4173-84ba-c2d77dcc6206#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gx17yr82av",
+      "Integrity": "fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\8b2aa672-4a35-4173-84ba-c2d77dcc6206.PNG"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\b817a0e1-c1d7-41ac-bf63-93ecc835b104.PNG",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/b817a0e1-c1d7-41ac-bf63-93ecc835b104#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p0ybdqv4ip",
+      "Integrity": "B7oj3e/YWEivs+wkw+NK7lAm+3w2A4id/JwYxfWlJv8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\b817a0e1-c1d7-41ac-bf63-93ecc835b104.PNG"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\ddcf81af-ec6b-4a1b-b173-0a32ce37089a.jpg",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/ddcf81af-ec6b-4a1b-b173-0a32ce37089a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xb821m6tjs",
+      "Integrity": "UxBgi+bOzdSk2TV8kbtegRci/Fg8N+hiySsK9sp9tKA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\ddcf81af-ec6b-4a1b-b173-0a32ce37089a.jpg"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\f3c70fc3-126e-412c-9038-749b0d209264.jpg",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/f3c70fc3-126e-412c-9038-749b0d209264#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qu02bi53xr",
+      "Integrity": "LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\f3c70fc3-126e-412c-9038-749b0d209264.jpg"
     },
     {
       "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\img\\AdminLTELogo.png",
@@ -1569,6 +1800,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\js\\products.js",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "js/products#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5sduxxu3c3",
+      "Integrity": "u9m2F9jXO/GlZemjK5fKDfh33cxsuyKGMQ7KiFbhWUo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\products.js"
     },
     {
       "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\js\\site.js",
@@ -6072,6 +6324,252 @@
       ]
     },
     {
+      "Route": "customer/assets/favicon.devepoo3hg.ico",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\customer\\assets\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "devepoo3hg"
+        },
+        {
+          "Name": "label",
+          "Value": "customer/assets/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "customer/assets/favicon.ico",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\customer\\assets\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "customer/css/styles.050gf1li0j.css",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\customer\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "050gf1li0j"
+        },
+        {
+          "Name": "label",
+          "Value": "customer/css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0="
+        }
+      ]
+    },
+    {
+      "Route": "customer/css/styles.css",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\customer\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0="
+        }
+      ]
+    },
+    {
+      "Route": "customer/js/scripts.7950c2etpe.js",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\customer\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZfEVpnGr+TXr1LfZZrITWxGlhBLv4FhqV6hrt5xhoTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7950c2etpe"
+        },
+        {
+          "Name": "label",
+          "Value": "customer/js/scripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZfEVpnGr+TXr1LfZZrITWxGlhBLv4FhqV6hrt5xhoTE="
+        }
+      ]
+    },
+    {
+      "Route": "customer/js/scripts.js",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\customer\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZfEVpnGr+TXr1LfZZrITWxGlhBLv4FhqV6hrt5xhoTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZfEVpnGr+TXr1LfZZrITWxGlhBLv4FhqV6hrt5xhoTE="
+        }
+      ]
+    },
+    {
       "Route": "favicon.61n19gt1b8.ico",
       "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\favicon.ico",
       "Selectors": [],
@@ -6150,6 +6648,662 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/16e10847-9650-4572-9d17-ca52091fa3a9.gx17yr82av.PNG",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\16e10847-9650-4572-9d17-ca52091fa3a9.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165954"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 23:09:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gx17yr82av"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/16e10847-9650-4572-9d17-ca52091fa3a9.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/16e10847-9650-4572-9d17-ca52091fa3a9.PNG",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\16e10847-9650-4572-9d17-ca52091fa3a9.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165954"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 23:09:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/5dfaa964-15e6-424f-88ca-0a6b4b46244f.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\5dfaa964-15e6-424f-88ca-0a6b4b46244f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 22:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/5dfaa964-15e6-424f-88ca-0a6b4b46244f.qu02bi53xr.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\5dfaa964-15e6-424f-88ca-0a6b4b46244f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 22:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qu02bi53xr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/5dfaa964-15e6-424f-88ca-0a6b4b46244f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/5f9403a1-414d-4cc1-b3fa-1265dd204aef.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\5f9403a1-414d-4cc1-b3fa-1265dd204aef.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 00:12:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/5f9403a1-414d-4cc1-b3fa-1265dd204aef.qu02bi53xr.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\5f9403a1-414d-4cc1-b3fa-1265dd204aef.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 00:12:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qu02bi53xr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/5f9403a1-414d-4cc1-b3fa-1265dd204aef.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/849bb687-1f7d-4a63-88ce-1e8dbac3c635.gx17yr82av.PNG",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\849bb687-1f7d-4a63-88ce-1e8dbac3c635.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165954"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 14:50:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gx17yr82av"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/849bb687-1f7d-4a63-88ce-1e8dbac3c635.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/849bb687-1f7d-4a63-88ce-1e8dbac3c635.PNG",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\849bb687-1f7d-4a63-88ce-1e8dbac3c635.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165954"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 14:50:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/8b2aa672-4a35-4173-84ba-c2d77dcc6206.gx17yr82av.PNG",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\8b2aa672-4a35-4173-84ba-c2d77dcc6206.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165954"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 17:58:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gx17yr82av"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/8b2aa672-4a35-4173-84ba-c2d77dcc6206.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/8b2aa672-4a35-4173-84ba-c2d77dcc6206.PNG",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\8b2aa672-4a35-4173-84ba-c2d77dcc6206.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165954"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 17:58:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b817a0e1-c1d7-41ac-bf63-93ecc835b104.p0ybdqv4ip.PNG",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\b817a0e1-c1d7-41ac-bf63-93ecc835b104.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B7oj3e/YWEivs+wkw+NK7lAm+3w2A4id/JwYxfWlJv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 17:58:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p0ybdqv4ip"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/b817a0e1-c1d7-41ac-bf63-93ecc835b104.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B7oj3e/YWEivs+wkw+NK7lAm+3w2A4id/JwYxfWlJv8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b817a0e1-c1d7-41ac-bf63-93ecc835b104.PNG",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\b817a0e1-c1d7-41ac-bf63-93ecc835b104.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B7oj3e/YWEivs+wkw+NK7lAm+3w2A4id/JwYxfWlJv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 17:58:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B7oj3e/YWEivs+wkw+NK7lAm+3w2A4id/JwYxfWlJv8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/ddcf81af-ec6b-4a1b-b173-0a32ce37089a.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\ddcf81af-ec6b-4a1b-b173-0a32ce37089a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30975"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UxBgi+bOzdSk2TV8kbtegRci/Fg8N+hiySsK9sp9tKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 22:53:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UxBgi+bOzdSk2TV8kbtegRci/Fg8N+hiySsK9sp9tKA="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/ddcf81af-ec6b-4a1b-b173-0a32ce37089a.xb821m6tjs.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\ddcf81af-ec6b-4a1b-b173-0a32ce37089a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30975"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UxBgi+bOzdSk2TV8kbtegRci/Fg8N+hiySsK9sp9tKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 22:53:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xb821m6tjs"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/ddcf81af-ec6b-4a1b-b173-0a32ce37089a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UxBgi+bOzdSk2TV8kbtegRci/Fg8N+hiySsK9sp9tKA="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/f3c70fc3-126e-412c-9038-749b0d209264.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\f3c70fc3-126e-412c-9038-749b0d209264.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 14:52:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/f3c70fc3-126e-412c-9038-749b0d209264.qu02bi53xr.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\f3c70fc3-126e-412c-9038-749b0d209264.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 14:52:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qu02bi53xr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/f3c70fc3-126e-412c-9038-749b0d209264.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0="
         }
       ]
     },
@@ -9594,6 +10748,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-rniujOK6phsE8BuMkJt8k4tyvMqwWvojOxPgOeyQuYk="
+        }
+      ]
+    },
+    {
+      "Route": "js/products.5sduxxu3c3.js",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\js\\products.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9m2F9jXO/GlZemjK5fKDfh33cxsuyKGMQ7KiFbhWUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 00:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5sduxxu3c3"
+        },
+        {
+          "Name": "label",
+          "Value": "js/products.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9m2F9jXO/GlZemjK5fKDfh33cxsuyKGMQ7KiFbhWUo="
+        }
+      ]
+    },
+    {
+      "Route": "js/products.js",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\js\\products.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9m2F9jXO/GlZemjK5fKDfh33cxsuyKGMQ7KiFbhWUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 00:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9m2F9jXO/GlZemjK5fKDfh33cxsuyKGMQ7KiFbhWUo="
         }
       ]
     },

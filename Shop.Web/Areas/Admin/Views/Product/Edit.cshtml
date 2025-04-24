@@ -1,0 +1,60 @@
+﻿@model ProductVM
+@{
+    ViewBag.PageTitle = "Product Management";
+    ViewBag.CardTitle = "Edit Product";
+}
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-area="Admin" asp-action="Edit" asp-controller="Product" enctype="multipart/form-data">
+            @Html.AntiForgeryToken()
+            @* <div class="mb-3">
+        <label asp-for="Id"></label>
+        <input asp-for="Id" class="form-control" />
+        <span asp-validation-for="Id" class="text-danger"></span>
+    </div> *@
+            <input asp-for="Product.Id" hidden class="form-control" />
+            <input asp-for="Product.Img" hidden class="form-control" />
+            <div class="mb-3">
+                <label asp-for="Product.Name"></label>
+                <input asp-for="Product.Name" class="form-control" />
+                <span asp-validation-for="Product.Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Product.Description"></label>
+                <input asp-for="Product.Description" class="form-control" />
+                <span asp-validation-for="Product.Description" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Product.Price"></label>
+                <input asp-for="Product.Price" class="form-control" />
+                <span asp-validation-for="Product.Price" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Product.Img"></label>
+                @* id="imgFile" *@
+                <input type="file" name="file" id="imgFile" class="form-control" />
+                <span asp-validation-for="Product.Img" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Product.CategoryId"></label>
+                <select asp-for="Product.CategoryId" asp-items="Model.CategoryList" class="form-control">
+                    <option disapled value="">---- Select Category</option>
+                </select>
+                <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+            </div>
+            <button class="btn btn-success" type="submit">Save</button>
+            <a class="btn btn-danger" asp-action="Index" asp-controller="Product">Go To Index</a>
+        </form>
+
+    </div>
+    <div class="col-md-4">
+        <div class="container">
+            <img id="ImagePreview" src="@Model.Product.Img" width="300" height="300" />
+            @* @Url.Content("~/images/products/" + Model.Product.Img) *@
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -121,8 +121,52 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\customer\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\customer\\assets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\customer\\css\\styles.css",
+      "PackagePath": "staticwebassets\\customer\\css\\styles.css"
+    },
+    {
+      "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\customer\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\customer\\js\\scripts.js"
+    },
+    {
       "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\16e10847-9650-4572-9d17-ca52091fa3a9.PNG",
+      "PackagePath": "staticwebassets\\images\\products\\16e10847-9650-4572-9d17-ca52091fa3a9.PNG"
+    },
+    {
+      "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\5dfaa964-15e6-424f-88ca-0a6b4b46244f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\5dfaa964-15e6-424f-88ca-0a6b4b46244f.jpg"
+    },
+    {
+      "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\5f9403a1-414d-4cc1-b3fa-1265dd204aef.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\5f9403a1-414d-4cc1-b3fa-1265dd204aef.jpg"
+    },
+    {
+      "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\849bb687-1f7d-4a63-88ce-1e8dbac3c635.PNG",
+      "PackagePath": "staticwebassets\\images\\products\\849bb687-1f7d-4a63-88ce-1e8dbac3c635.PNG"
+    },
+    {
+      "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\8b2aa672-4a35-4173-84ba-c2d77dcc6206.PNG",
+      "PackagePath": "staticwebassets\\images\\products\\8b2aa672-4a35-4173-84ba-c2d77dcc6206.PNG"
+    },
+    {
+      "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\b817a0e1-c1d7-41ac-bf63-93ecc835b104.PNG",
+      "PackagePath": "staticwebassets\\images\\products\\b817a0e1-c1d7-41ac-bf63-93ecc835b104.PNG"
+    },
+    {
+      "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\ddcf81af-ec6b-4a1b-b173-0a32ce37089a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ddcf81af-ec6b-4a1b-b173-0a32ce37089a.jpg"
+    },
+    {
+      "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\f3c70fc3-126e-412c-9038-749b0d209264.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f3c70fc3-126e-412c-9038-749b0d209264.jpg"
     },
     {
       "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\img\\AdminLTELogo.png",
@@ -291,6 +335,10 @@
     {
       "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\js\\pages\\dashboard3.js",
       "PackagePath": "staticwebassets\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\js\\products.js",
+      "PackagePath": "staticwebassets\\js\\products.js"
     },
     {
       "Id": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\js\\site.js",

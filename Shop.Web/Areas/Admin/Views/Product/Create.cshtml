@@ -3,7 +3,7 @@
     ViewBag.PageTitle = "Product Management";
     ViewBag.CardTitle = "Create Product";
 }
-<form method="post" asp-action="Create" asp-controller="Product">
+<form method="post" asp-action="Create" asp-controller="Product" enctype="multipart/form-data">
     @Html.AntiForgeryToken()
     @* <div class="mb-3">
         <label asp-for="Id"></label>
@@ -28,7 +28,7 @@
     <div class="mb-3">
         <label asp-for="Product.Img"></label>
         @* id="imgFile" *@
-        <input asp-for="Product.Img" type="file" name="Upload"  class="form-control" />
+        <input type="file" name="file" id="imgFile" class="form-control" />
         <span asp-validation-for="Product.Img" class="text-danger"></span>
     </div>
     <div class="mb-3">
