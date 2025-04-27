@@ -83,7 +83,7 @@ namespace Shop.Web.Controllers
             if(id != null || id != 0)
             {
                 Expression<Func<Product,bool>> predicate = c => c.Id == id;
-                var product = _unitOfWork.Product.GetFirstOrDefualt(predicate);
+                var product = _unitOfWork.Product.GetFirstOrDefault(predicate);
                 if (product != null)
                 {  
                       return View(product);
@@ -111,7 +111,7 @@ namespace Shop.Web.Controllers
             if (id != null || id != 0)
             {
                 Expression<Func<Product, bool>> predicate = c => c.Id == id;
-                var product = _unitOfWork.Product.GetFirstOrDefualt(predicate,null);
+                var product = _unitOfWork.Product.GetFirstOrDefault(predicate,null);
                 if (product != null)
                 {
                     return View(product);

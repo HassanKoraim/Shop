@@ -86,7 +86,7 @@ namespace Shop.Web.Areas.Admin.Controllers
             if(id != null || id != 0)
             {
                 Expression<Func<Product,bool>> predicate = c => c.Id == id;
-                var product = _unitOfWork.Product.GetFirstOrDefualt(predicate);
+                var product = _unitOfWork.Product.GetFirstOrDefault(predicate);
                 if (product != null)
                 {
                     ProductVM productVM = new ProductVM()
@@ -157,7 +157,7 @@ namespace Shop.Web.Areas.Admin.Controllers
         //[ValidateAntiForgeryToken]
         public IActionResult Delete(int? id)
         {
-            Product product = _unitOfWork.Product.GetFirstOrDefualt(c => c.Id == id);
+            Product product = _unitOfWork.Product.GetFirstOrDefault(c => c.Id == id);
             if (product != null)
             {
                 Expression<Func<Product, bool>> predicate = c => c.Id == product.Id;

@@ -1,6 +1,7 @@
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Entities\bin\Debug\net8.0\Shop.Entities.deps.json
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Entities\bin\Debug\net8.0\Shop.Entities.dll
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Entities\bin\Debug\net8.0\Shop.Entities.pdb
+E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Entities\obj\Debug\net8.0\Shop.Entities.csproj.AssemblyReference.cache
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Entities\obj\Debug\net8.0\Shop.Entities.GeneratedMSBuildEditorConfig.editorconfig
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Entities\obj\Debug\net8.0\Shop.Entities.AssemblyInfoInputs.cache
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Entities\obj\Debug\net8.0\Shop.Entities.AssemblyInfo.cs
@@ -10,4 +11,3 @@ E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Entities\obj\Debug\net8.0\Shop.En
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Entities\obj\Debug\net8.0\refint\Shop.Entities.dll
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Entities\obj\Debug\net8.0\Shop.Entities.pdb
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Entities\obj\Debug\net8.0\ref\Shop.Entities.dll
-E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Entities\obj\Debug\net8.0\Shop.Entities.csproj.AssemblyReference.cache

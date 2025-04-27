@@ -42,7 +42,7 @@ namespace Shop.DataAccess.Implementation
             return query.ToList();
         }
 
-        public T GetFirstOrDefualt(Expression<Func<T, bool>>? predicate = null, string? includeWord = null)
+        public T GetFirstOrDefault(Expression<Func<T, bool>>? predicate = null, string? includeWord = null)
         {
             IQueryable<T> query = _dbSet;
             if (predicate != null)
@@ -68,7 +68,7 @@ namespace Shop.DataAccess.Implementation
         }
         public void Remove(Expression<Func<T, bool>> predicate)
         {
-            var entity = GetFirstOrDefualt(predicate);
+            var entity = GetFirstOrDefault(predicate);
             if (entity != null)
             {
                 _dbSet.Remove(entity);

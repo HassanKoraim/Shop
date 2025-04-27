@@ -32,6 +32,8 @@ wwwroot\customer\css\styles.css
 wwwroot\customer\js\scripts.js
 wwwroot\favicon.ico
 wwwroot\images\products\16e10847-9650-4572-9d17-ca52091fa3a9.PNG
+wwwroot\images\products\3e829b6d-6d68-44ba-b116-399ab0089a3c.jpg
+wwwroot\images\products\536c25a5-6df1-4a18-b7c1-1dfd6cae5c45.PNG
 wwwroot\images\products\5dfaa964-15e6-424f-88ca-0a6b4b46244f.jpg
 wwwroot\images\products\5f9403a1-414d-4cc1-b3fa-1265dd204aef.jpg
 wwwroot\images\products\849bb687-1f7d-4a63-88ce-1e8dbac3c635.PNG

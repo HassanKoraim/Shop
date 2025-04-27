@@ -46,7 +46,7 @@ namespace Shop.Web.Areas.Admin.Controllers
             if(id != null || id != 0)
             {
                 Expression<Func<Category,bool>> predicate = c => c.Id == id;
-                var category = _unitOfWork.Category.GetFirstOrDefualt(predicate);
+                var category = _unitOfWork.Category.GetFirstOrDefault(predicate);
                 if (category != null)
                 {  
                       return View(category);
@@ -74,7 +74,7 @@ namespace Shop.Web.Areas.Admin.Controllers
             if (id != null || id != 0)
             {
                 Expression<Func<Category, bool>> predicate = c => c.Id == id;
-                var category = _unitOfWork.Category.GetFirstOrDefualt(predicate,null);
+                var category = _unitOfWork.Category.GetFirstOrDefault(predicate,null);
                 if (category != null)
                 {
                     return View(category);

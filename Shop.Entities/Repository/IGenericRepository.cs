@@ -10,7 +10,7 @@ namespace Shop.Entities.Repository
     public interface IGenericRepository<T> where T : class
     {
         IEnumerable<T> GetAll(Expression<Func<T,bool>>? predicate = null, string? includeWord = null);
-        T GetFirstOrDefualt(Expression<Func<T, bool>>? predicate = null, string? includeWord = null);
+        T GetFirstOrDefault(Expression<Func<T, bool>>? predicate = null, string? includeWord = null);
         void Add(T entity);
         void Remove(T entity);
         void Remove(Expression<Func<T, bool>> predicate);
