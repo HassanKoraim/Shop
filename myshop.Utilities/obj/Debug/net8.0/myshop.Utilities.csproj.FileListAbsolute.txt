@@ -1,0 +1,13 @@
+E:\Coding\CSharp\AspNetCore\Projects\Shop\myshop.Utilities\bin\Debug\net8.0\myshop.Utilities.deps.json
+E:\Coding\CSharp\AspNetCore\Projects\Shop\myshop.Utilities\bin\Debug\net8.0\myshop.Utilities.dll
+E:\Coding\CSharp\AspNetCore\Projects\Shop\myshop.Utilities\bin\Debug\net8.0\myshop.Utilities.pdb
+E:\Coding\CSharp\AspNetCore\Projects\Shop\myshop.Utilities\obj\Debug\net8.0\myshop.Utilities.csproj.AssemblyReference.cache
+E:\Coding\CSharp\AspNetCore\Projects\Shop\myshop.Utilities\obj\Debug\net8.0\myshop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\AspNetCore\Projects\Shop\myshop.Utilities\obj\Debug\net8.0\myshop.Utilities.AssemblyInfoInputs.cache
+E:\Coding\CSharp\AspNetCore\Projects\Shop\myshop.Utilities\obj\Debug\net8.0\myshop.Utilities.AssemblyInfo.cs
+E:\Coding\CSharp\AspNetCore\Projects\Shop\myshop.Utilities\obj\Debug\net8.0\myshop.Utilities.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\AspNetCore\Projects\Shop\myshop.Utilities\obj\Debug\net8.0\myshop.Utilities.sourcelink.json
+E:\Coding\CSharp\AspNetCore\Projects\Shop\myshop.Utilities\obj\Debug\net8.0\myshop.Utilities.dll
+E:\Coding\CSharp\AspNetCore\Projects\Shop\myshop.Utilities\obj\Debug\net8.0\refint\myshop.Utilities.dll
+E:\Coding\CSharp\AspNetCore\Projects\Shop\myshop.Utilities\obj\Debug\net8.0\myshop.Utilities.pdb
+E:\Coding\CSharp\AspNetCore\Projects\Shop\myshop.Utilities\obj\Debug\net8.0\ref\myshop.Utilities.dll
