@@ -1,7 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Shop.DataAccess.Implementation;
+using Shop.Entities.Models;
 using Shop.Entities.Repository;
-using Shop.Entities.ViewModels;
+using System.Security.Claims;
 
 namespace Shop.Web.Areas.Customer.Controllers
 {
@@ -19,18 +21,42 @@ namespace Shop.Web.Areas.Customer.Controllers
             return View(products);
         }
         [HttpGet]
-        public IActionResult Details(int? id)
+        public IActionResult Details(int ProductId)
         {
-            if(id != null)
+            if(ProductId != null)
             {
-                ShopingCart shopingCart = new ShopingCart()
+                ShoppingCart shopingCart = new ShoppingCart()
                 {
-                    product = _unitOfWork.Product.GetFirstOrDefault(p => p.Id == id, includeWord: "Category"),
+                   // ProductId = ProductId,
+                    Product = _unitOfWork.Product.GetFirstOrDefault(p => p.Id == ProductId, includeWord: "Category"),
                     Count = 0
                 };
                return View(shopingCart);
             }
             return NotFound();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        [Authorize]
+        public IActionResult Details(ShoppingCart cart)
+        {
+            var claimsIdentity = (ClaimsIdentity)User.Identity;
+            var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
+            cart.ApplicationUserId = claim.Value;
+            ShoppingCart cartObj = _unitOfWork.ShoppingCart.
+                GetFirstOrDefault(x => x.ApplicationUserId == claim.Value && x.ProductId == cart.ProductId);
+            if (cartObj == null)
+            {
+                _unitOfWork.ShoppingCart.Add(cart);
+            }
+            else
+            {
+                _unitOfWork.ShoppingCart.IncreaseCount(cartObj, cart.Count);
+            }
+
+            _unitOfWork.Complete();
+            return RedirectToAction("Index" , "Cart");
         }
     }
 }
