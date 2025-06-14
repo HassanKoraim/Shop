@@ -41,6 +41,10 @@
           "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "GenericRepository.cs",
@@ -50,12 +54,7 @@
               "RelativeToolTip": "Shop.DataAccess\\Implementation\\GenericRepository.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAIwEgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T15:41:27.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "WhenOpened": "2025-06-14T15:41:27.147Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "Shop.Web\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-14T13:36:58.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T13:36:58.269Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "Shop.Web\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-14T12:34:03.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T12:34:03.67Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "Shop.Web\\Shop.Web.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-14T12:33:37.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T12:33:37.367Z"
             },
             {
               "$type": "Document",
@@ -106,8 +102,7 @@
               "RelativeToolTip": "Shop.Web\\Program.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T12:23:16.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T12:23:16.475Z"
             },
             {
               "$type": "Document",
