@@ -6,10 +6,13 @@ using Shop.Entities.ViewModels;
 using System.Linq.Expressions;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Authorization;
+using myshop.Utilities;
 
 namespace Shop.Web.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles ="Admin")]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

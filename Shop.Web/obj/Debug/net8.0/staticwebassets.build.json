@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/UdvtQVVC4O/aYG/SJRevnrZAhxmbak2HJMFuSGNkjo=",
+  "Hash": "/AyHNTfnMCbGykS+vU6ZMHZ8yTkp9BgarHekg/elsYM=",
   "Source": "Shop.Web",
   "BasePath": "_content/Shop.Web",
   "Mode": "Default",
@@ -78,174 +78,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\js\\site.js"
-    },
-    {
-      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mpyigms19s",
-      "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "73kdqttayv",
-      "Integrity": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "8inm30yfxf",
-      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ve6x09088i",
-      "Integrity": "SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "4gxs3k148c",
-      "Integrity": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "9b9oa1qrmt",
-      "Integrity": "22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "fctod5rc9n",
-      "Integrity": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
       "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -752,6 +584,174 @@
       "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mpyigms19s",
+      "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "73kdqttayv",
+      "Integrity": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ve6x09088i",
+      "Integrity": "SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4gxs3k148c",
+      "Integrity": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9b9oa1qrmt",
+      "Integrity": "22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fctod5rc9n",
+      "Integrity": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
       "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -1025,12 +1025,12 @@
       "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
       "BasePath": "Identity",
-      "RelativePath": "lib/jquery/dist/jquery.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1039,19 +1039,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fwhahm2icz",
-      "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
+      "Fingerprint": "47otxtyo56",
+      "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
       "BasePath": "Identity",
-      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1060,19 +1060,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dd6z7egasc",
-      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
+      "Fingerprint": "4v8eqarkd7",
+      "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
       "BasePath": "Identity",
-      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1081,32 +1081,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5pze98is44",
-      "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
+      "Fingerprint": "356vix0kms",
+      "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/jquery/LICENSE.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mlv21k5csn",
-      "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
       "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
@@ -1214,12 +1193,12 @@
       "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
       "BasePath": "Identity",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1228,19 +1207,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "47otxtyo56",
-      "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
+      "Fingerprint": "fwhahm2icz",
+      "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
       "BasePath": "Identity",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1249,19 +1228,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4v8eqarkd7",
-      "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
+      "Fingerprint": "dd6z7egasc",
+      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
       "BasePath": "Identity",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1270,11 +1249,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "356vix0kms",
-      "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
+      "Fingerprint": "5pze98is44",
+      "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlv21k5csn",
+      "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
       "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shop.Web.styles.css",
@@ -2012,6 +2012,69 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\0d02ee23-41b6-4da3-9e14-6a3597184a14.jpg",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/0d02ee23-41b6-4da3-9e14-6a3597184a14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3acnpjveqm",
+      "Integrity": "FQ24NSPmgiXSdee3K2zDrZNJjVtQk+FthK4OJnY8ug0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\0d02ee23-41b6-4da3-9e14-6a3597184a14.jpg"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\0daa0d77-9864-4ac8-b09b-f95b2ef8c8c9.jpg",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/0daa0d77-9864-4ac8-b09b-f95b2ef8c8c9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1e6msrdk81",
+      "Integrity": "2YGZuc4n8/VC5c0m6ymy1Vhd+sYbYABqmvbCK39DNw4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\0daa0d77-9864-4ac8-b09b-f95b2ef8c8c9.jpg"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\10bb6cec-4b1c-44ca-8af2-7781a57802f4.jpg",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/10bb6cec-4b1c-44ca-8af2-7781a57802f4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5fsv3rol0n",
+      "Integrity": "X2/cO6cy+a3tyEAYOm3pWXkz+jmiCNBkaNJpKgHHgP0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\10bb6cec-4b1c-44ca-8af2-7781a57802f4.jpg"
+    },
+    {
       "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\16e10847-9650-4572-9d17-ca52091fa3a9.PNG",
       "SourceId": "Shop.Web",
       "SourceType": "Discovered",
@@ -2033,12 +2096,12 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\16e10847-9650-4572-9d17-ca52091fa3a9.PNG"
     },
     {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\3a99c702-4395-4384-8998-d874b87475d8.PNG",
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\20973840-24d7-4986-b625-488ae94d1116.jpg",
       "SourceId": "Shop.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
       "BasePath": "_content/Shop.Web",
-      "RelativePath": "images/products/3a99c702-4395-4384-8998-d874b87475d8#[.{fingerprint}]?.PNG",
+      "RelativePath": "images/products/20973840-24d7-4986-b625-488ae94d1116#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2047,11 +2110,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gx17yr82av",
-      "Integrity": "fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik=",
+      "Fingerprint": "7wkxq50bli",
+      "Integrity": "+cm+pdFp85LQPTgCVS2ft1t6olxim+u7JFcjVG/8pd4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\3a99c702-4395-4384-8998-d874b87475d8.PNG"
+      "OriginalItemSpec": "wwwroot\\images\\products\\20973840-24d7-4986-b625-488ae94d1116.jpg"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\26feadc2-a10b-45ab-a8b1-1232c6ae3384.jpg",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/26feadc2-a10b-45ab-a8b1-1232c6ae3384#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vh6f7x7erj",
+      "Integrity": "XbZaW4epyDj0WS5Q4O/xttd9BZxBL0U18oNwa4aaO90=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\26feadc2-a10b-45ab-a8b1-1232c6ae3384.jpg"
     },
     {
       "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\3e829b6d-6d68-44ba-b116-399ab0089a3c.jpg",
@@ -2117,6 +2201,27 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\5dfaa964-15e6-424f-88ca-0a6b4b46244f.jpg"
     },
     {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\5e8e69a3-a8e7-4991-b8b0-60aff961eddf.jpg",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/5e8e69a3-a8e7-4991-b8b0-60aff961eddf#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zhg1v5lck4",
+      "Integrity": "OfMDMuzxKvXcfV5kObcphCVOOgZlkCXYcrdL6dd32P8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\5e8e69a3-a8e7-4991-b8b0-60aff961eddf.jpg"
+    },
+    {
       "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\5f9403a1-414d-4cc1-b3fa-1265dd204aef.jpg",
       "SourceId": "Shop.Web",
       "SourceType": "Discovered",
@@ -2136,6 +2241,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\5f9403a1-414d-4cc1-b3fa-1265dd204aef.jpg"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\61f7de22-aac8-4012-8ecd-f19e9d340c0e.jpg",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/61f7de22-aac8-4012-8ecd-f19e9d340c0e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "089dahoxr8",
+      "Integrity": "EKJmhQxTcYLh77lB0pC2gT+5UrGgMbsv7QuQaQkxjaI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\61f7de22-aac8-4012-8ecd-f19e9d340c0e.jpg"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\66a149d6-8a47-4f07-ab09-38087454a044.jpg",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/66a149d6-8a47-4f07-ab09-38087454a044#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u43tll0yvl",
+      "Integrity": "4iE6jhpwcaHbpQBH5ub+BM+IQsxIRH04/Dn5QHsLV2Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\66a149d6-8a47-4f07-ab09-38087454a044.jpg"
     },
     {
       "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\7b758081-4881-4898-b083-980887f1e33a.png",
@@ -2201,12 +2348,12 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\8b2aa672-4a35-4173-84ba-c2d77dcc6206.PNG"
     },
     {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\9ce16001-c261-40c4-ad61-87d3f3878475.jpg",
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\8b79c41e-e998-46fd-b885-f41c1b32338c.jpg",
       "SourceId": "Shop.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
       "BasePath": "_content/Shop.Web",
-      "RelativePath": "images/products/9ce16001-c261-40c4-ad61-87d3f3878475#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/products/8b79c41e-e998-46fd-b885-f41c1b32338c#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2215,11 +2362,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xb821m6tjs",
-      "Integrity": "UxBgi+bOzdSk2TV8kbtegRci/Fg8N+hiySsK9sp9tKA=",
+      "Fingerprint": "xb01s75pcl",
+      "Integrity": "E6Bnrdke5ZP/+j8zPLflDqHNxlEMjLP3MdyLK5mivNg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\9ce16001-c261-40c4-ad61-87d3f3878475.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\8b79c41e-e998-46fd-b885-f41c1b32338c.jpg"
     },
     {
       "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\b817a0e1-c1d7-41ac-bf63-93ecc835b104.PNG",
@@ -2243,12 +2390,12 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\b817a0e1-c1d7-41ac-bf63-93ecc835b104.PNG"
     },
     {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\d72273c1-5bb0-4d17-a8ed-a1a48c0f2b6e.PNG",
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\c283fc05-be8e-4455-8f17-abc062e7e1f2.jpg",
       "SourceId": "Shop.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
       "BasePath": "_content/Shop.Web",
-      "RelativePath": "images/products/d72273c1-5bb0-4d17-a8ed-a1a48c0f2b6e#[.{fingerprint}]?.PNG",
+      "RelativePath": "images/products/c283fc05-be8e-4455-8f17-abc062e7e1f2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2257,11 +2404,53 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "p0ybdqv4ip",
-      "Integrity": "B7oj3e/YWEivs+wkw+NK7lAm+3w2A4id/JwYxfWlJv8=",
+      "Fingerprint": "rgqeua1qt5",
+      "Integrity": "hazHxHfz7LPwVUL/rYJ1Y5XzniyTJNbGw9Jx7yXite0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\d72273c1-5bb0-4d17-a8ed-a1a48c0f2b6e.PNG"
+      "OriginalItemSpec": "wwwroot\\images\\products\\c283fc05-be8e-4455-8f17-abc062e7e1f2.jpg"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\cad8c726-305f-4c24-8621-64bc7a7e2480.jpg",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/cad8c726-305f-4c24-8621-64bc7a7e2480#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4qyw0u7qjx",
+      "Integrity": "NGA2dsmT5Ee2RVNh+aNIaiIa577Hbca4+6L7d/cfae8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\cad8c726-305f-4c24-8621-64bc7a7e2480.jpg"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\cb004058-57dc-4215-a167-68e9514f68be.jpg",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "images/products/cb004058-57dc-4215-a167-68e9514f68be#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "svagkwkj6q",
+      "Integrity": "6FB1QT3T8NjRX+T7zFm04nMmNj5b4w1Y4OX3iobkXFM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\cb004058-57dc-4215-a167-68e9514f68be.jpg"
     },
     {
       "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\ddcf81af-ec6b-4a1b-b173-0a32ce37089a.jpg",
@@ -2285,12 +2474,12 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ddcf81af-ec6b-4a1b-b173-0a32ce37089a.jpg"
     },
     {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\e0ae3a0e-a618-492f-8a83-9aa6dc929e01.jpg",
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\ef73be07-9bb9-4a6a-999c-11ffde8722a3.jpg",
       "SourceId": "Shop.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
       "BasePath": "_content/Shop.Web",
-      "RelativePath": "images/products/e0ae3a0e-a618-492f-8a83-9aa6dc929e01#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/products/ef73be07-9bb9-4a6a-999c-11ffde8722a3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2299,11 +2488,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qu02bi53xr",
-      "Integrity": "LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0=",
+      "Fingerprint": "1izhtdhiza",
+      "Integrity": "BxE2ckAwABrn8nlxiOWQvCW+TYI/L6B/fl2evJJ4des=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\e0ae3a0e-a618-492f-8a83-9aa6dc929e01.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\ef73be07-9bb9-4a6a-999c-11ffde8722a3.jpg"
     },
     {
       "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\f3c70fc3-126e-412c-9038-749b0d209264.jpg",
@@ -3251,174 +3440,6 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "Shop.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
-      "BasePath": "_content/Shop.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mpyigms19s",
-      "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "Shop.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
-      "BasePath": "_content/Shop.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "73kdqttayv",
-      "Integrity": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "Shop.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
-      "BasePath": "_content/Shop.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "Shop.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
-      "BasePath": "_content/Shop.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "8inm30yfxf",
-      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "Shop.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
-      "BasePath": "_content/Shop.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ve6x09088i",
-      "Integrity": "SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "Shop.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
-      "BasePath": "_content/Shop.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "4gxs3k148c",
-      "Integrity": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "Shop.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
-      "BasePath": "_content/Shop.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "9b9oa1qrmt",
-      "Integrity": "22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "Shop.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
-      "BasePath": "_content/Shop.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "fctod5rc9n",
-      "Integrity": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
       "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Shop.Web",
       "SourceType": "Discovered",
@@ -3923,6 +3944,174 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mpyigms19s",
+      "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "73kdqttayv",
+      "Integrity": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ve6x09088i",
+      "Integrity": "SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4gxs3k148c",
+      "Integrity": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9b9oa1qrmt",
+      "Integrity": "22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fctod5rc9n",
+      "Integrity": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
       "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Shop.Web",
       "SourceType": "Discovered",
@@ -4196,12 +4385,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Shop.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
       "BasePath": "_content/Shop.Web",
-      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4210,19 +4399,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fwhahm2icz",
-      "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
+      "Fingerprint": "47otxtyo56",
+      "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Shop.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
       "BasePath": "_content/Shop.Web",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4231,19 +4420,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dd6z7egasc",
-      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
+      "Fingerprint": "4v8eqarkd7",
+      "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Shop.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
       "BasePath": "_content/Shop.Web",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4252,32 +4441,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5pze98is44",
-      "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
+      "Fingerprint": "356vix0kms",
+      "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "Shop.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
-      "BasePath": "_content/Shop.Web",
-      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mlv21k5csn",
-      "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
       "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
@@ -4385,12 +4553,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Shop.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
       "BasePath": "_content/Shop.Web",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4399,19 +4567,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "47otxtyo56",
-      "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
+      "Fingerprint": "fwhahm2icz",
+      "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Shop.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
       "BasePath": "_content/Shop.Web",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4420,19 +4588,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4v8eqarkd7",
-      "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
+      "Fingerprint": "dd6z7egasc",
+      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Shop.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
       "BasePath": "_content/Shop.Web",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4441,11 +4609,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "356vix0kms",
-      "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
+      "Fingerprint": "5pze98is44",
+      "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlv21k5csn",
+      "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
       "Identity": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
@@ -8170,302 +8359,6 @@
       ]
     },
     {
-      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204136"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
-        }
-      ]
-    },
-    {
-      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536547"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
-        }
-      ]
-    },
-    {
-      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "203803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
-        }
-      ]
-    },
-    {
-      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
-        }
-      ]
-    },
-    {
-      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162825"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
-        }
-      ]
-    },
-    {
-      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "661035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
-        }
-      ]
-    },
-    {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
@@ -9354,6 +9247,302 @@
       ]
     },
     {
+      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
+        }
+      ]
+    },
+    {
+      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
+        }
+      ]
+    },
+    {
+      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
+        }
+      ]
+    },
+    {
+      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
+        }
+      ]
+    },
+    {
+      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
+        }
+      ]
+    },
+    {
+      "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "661035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
+        }
+      ]
+    },
+    {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
@@ -9835,8 +10024,8 @@
       ]
     },
     {
-      "Route": "Identity/lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Route": "Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9845,7 +10034,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "288580"
+          "Value": "19385"
         },
         {
           "Name": "Content-Type",
@@ -9853,7 +10042,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
+          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
         },
         {
           "Name": "Last-Modified",
@@ -9867,13 +10056,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
         }
       ]
     },
     {
-      "Route": "Identity/lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Route": "Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9882,7 +10071,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "89501"
+          "Value": "5824"
         },
         {
           "Name": "Content-Type",
@@ -9890,7 +10079,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
         },
         {
           "Name": "Last-Modified",
@@ -9904,13 +10093,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
         }
       ]
     },
     {
-      "Route": "Identity/lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Route": "Identity/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9919,7 +10108,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "137972"
+          "Value": "1139"
         },
         {
           "Name": "Content-Type",
@@ -9927,7 +10116,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
+          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
         },
         {
           "Name": "Last-Modified",
@@ -9941,44 +10130,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
-        }
-      ]
-    },
-    {
-      "Route": "Identity/lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
         }
       ]
     },
@@ -10168,8 +10320,8 @@
       ]
     },
     {
-      "Route": "Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Route": "Identity/lib/jquery/dist/jquery.js",
+      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10178,7 +10330,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19385"
+          "Value": "288580"
         },
         {
           "Name": "Content-Type",
@@ -10186,7 +10338,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
         },
         {
           "Name": "Last-Modified",
@@ -10200,13 +10352,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
         }
       ]
     },
     {
-      "Route": "Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Route": "Identity/lib/jquery/dist/jquery.min.js",
+      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10215,7 +10367,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5824"
+          "Value": "89501"
         },
         {
           "Name": "Content-Type",
@@ -10223,7 +10375,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
         },
         {
           "Name": "Last-Modified",
@@ -10237,13 +10389,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
         }
       ]
     },
     {
-      "Route": "Identity/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Route": "Identity/lib/jquery/dist/jquery.min.map",
+      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10252,7 +10404,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1139"
+          "Value": "137972"
         },
         {
           "Name": "Content-Type",
@@ -10260,7 +10412,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
         },
         {
           "Name": "Last-Modified",
@@ -10274,7 +10426,290 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+        }
+      ]
+    },
+    {
+      "Route": "Identity/lib/jquery/LICENSE.txt",
+      "AssetFile": "C:\\Users\\start\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Jun 2024 17:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/0d02ee23-41b6-4da3-9e14-6a3597184a14.3acnpjveqm.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\0d02ee23-41b6-4da3-9e14-6a3597184a14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FQ24NSPmgiXSdee3K2zDrZNJjVtQk+FthK4OJnY8ug0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:47:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3acnpjveqm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/0d02ee23-41b6-4da3-9e14-6a3597184a14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FQ24NSPmgiXSdee3K2zDrZNJjVtQk+FthK4OJnY8ug0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/0d02ee23-41b6-4da3-9e14-6a3597184a14.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\0d02ee23-41b6-4da3-9e14-6a3597184a14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FQ24NSPmgiXSdee3K2zDrZNJjVtQk+FthK4OJnY8ug0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:47:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FQ24NSPmgiXSdee3K2zDrZNJjVtQk+FthK4OJnY8ug0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/0daa0d77-9864-4ac8-b09b-f95b2ef8c8c9.1e6msrdk81.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\0daa0d77-9864-4ac8-b09b-f95b2ef8c8c9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2YGZuc4n8/VC5c0m6ymy1Vhd+sYbYABqmvbCK39DNw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1e6msrdk81"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/0daa0d77-9864-4ac8-b09b-f95b2ef8c8c9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2YGZuc4n8/VC5c0m6ymy1Vhd+sYbYABqmvbCK39DNw4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/0daa0d77-9864-4ac8-b09b-f95b2ef8c8c9.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\0daa0d77-9864-4ac8-b09b-f95b2ef8c8c9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2YGZuc4n8/VC5c0m6ymy1Vhd+sYbYABqmvbCK39DNw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2YGZuc4n8/VC5c0m6ymy1Vhd+sYbYABqmvbCK39DNw4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/10bb6cec-4b1c-44ca-8af2-7781a57802f4.5fsv3rol0n.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\10bb6cec-4b1c-44ca-8af2-7781a57802f4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1501899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X2/cO6cy+a3tyEAYOm3pWXkz+jmiCNBkaNJpKgHHgP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:49:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5fsv3rol0n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/10bb6cec-4b1c-44ca-8af2-7781a57802f4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X2/cO6cy+a3tyEAYOm3pWXkz+jmiCNBkaNJpKgHHgP0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/10bb6cec-4b1c-44ca-8af2-7781a57802f4.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\10bb6cec-4b1c-44ca-8af2-7781a57802f4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1501899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X2/cO6cy+a3tyEAYOm3pWXkz+jmiCNBkaNJpKgHHgP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:49:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X2/cO6cy+a3tyEAYOm3pWXkz+jmiCNBkaNJpKgHHgP0="
         }
       ]
     },
@@ -10361,8 +10796,8 @@
       ]
     },
     {
-      "Route": "images/products/3a99c702-4395-4384-8998-d874b87475d8.gx17yr82av.PNG",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\3a99c702-4395-4384-8998-d874b87475d8.PNG",
+      "Route": "images/products/20973840-24d7-4986-b625-488ae94d1116.7wkxq50bli.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\20973840-24d7-4986-b625-488ae94d1116.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10371,19 +10806,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "165954"
+          "Value": "23672"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik=\""
+          "Value": "\"+cm+pdFp85LQPTgCVS2ft1t6olxim+u7JFcjVG/8pd4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 17:27:54 GMT"
+          "Value": "Fri, 06 Jun 2025 17:39:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10393,21 +10828,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gx17yr82av"
+          "Value": "7wkxq50bli"
         },
         {
           "Name": "label",
-          "Value": "images/products/3a99c702-4395-4384-8998-d874b87475d8.PNG"
+          "Value": "images/products/20973840-24d7-4986-b625-488ae94d1116.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik="
+          "Value": "sha256-+cm+pdFp85LQPTgCVS2ft1t6olxim+u7JFcjVG/8pd4="
         }
       ]
     },
     {
-      "Route": "images/products/3a99c702-4395-4384-8998-d874b87475d8.PNG",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\3a99c702-4395-4384-8998-d874b87475d8.PNG",
+      "Route": "images/products/20973840-24d7-4986-b625-488ae94d1116.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\20973840-24d7-4986-b625-488ae94d1116.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10416,19 +10851,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "165954"
+          "Value": "23672"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik=\""
+          "Value": "\"+cm+pdFp85LQPTgCVS2ft1t6olxim+u7JFcjVG/8pd4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 17:27:54 GMT"
+          "Value": "Fri, 06 Jun 2025 17:39:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10438,7 +10873,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fEwJCTXvEvnVc9UZbtEPIH8S2SDPfNT27liNUxwZvik="
+          "Value": "sha256-+cm+pdFp85LQPTgCVS2ft1t6olxim+u7JFcjVG/8pd4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/26feadc2-a10b-45ab-a8b1-1232c6ae3384.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\26feadc2-a10b-45ab-a8b1-1232c6ae3384.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10603"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XbZaW4epyDj0WS5Q4O/xttd9BZxBL0U18oNwa4aaO90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:51:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XbZaW4epyDj0WS5Q4O/xttd9BZxBL0U18oNwa4aaO90="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/26feadc2-a10b-45ab-a8b1-1232c6ae3384.vh6f7x7erj.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\26feadc2-a10b-45ab-a8b1-1232c6ae3384.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10603"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XbZaW4epyDj0WS5Q4O/xttd9BZxBL0U18oNwa4aaO90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:51:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vh6f7x7erj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/26feadc2-a10b-45ab-a8b1-1232c6ae3384.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XbZaW4epyDj0WS5Q4O/xttd9BZxBL0U18oNwa4aaO90="
         }
       ]
     },
@@ -10689,6 +11206,88 @@
       ]
     },
     {
+      "Route": "images/products/5e8e69a3-a8e7-4991-b8b0-60aff961eddf.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\5e8e69a3-a8e7-4991-b8b0-60aff961eddf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OfMDMuzxKvXcfV5kObcphCVOOgZlkCXYcrdL6dd32P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:41:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OfMDMuzxKvXcfV5kObcphCVOOgZlkCXYcrdL6dd32P8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/5e8e69a3-a8e7-4991-b8b0-60aff961eddf.zhg1v5lck4.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\5e8e69a3-a8e7-4991-b8b0-60aff961eddf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OfMDMuzxKvXcfV5kObcphCVOOgZlkCXYcrdL6dd32P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:41:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zhg1v5lck4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/5e8e69a3-a8e7-4991-b8b0-60aff961eddf.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OfMDMuzxKvXcfV5kObcphCVOOgZlkCXYcrdL6dd32P8="
+        }
+      ]
+    },
+    {
       "Route": "images/products/5f9403a1-414d-4cc1-b3fa-1265dd204aef.jpg",
       "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\5f9403a1-414d-4cc1-b3fa-1265dd204aef.jpg",
       "Selectors": [],
@@ -10767,6 +11366,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/61f7de22-aac8-4012-8ecd-f19e9d340c0e.089dahoxr8.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\61f7de22-aac8-4012-8ecd-f19e9d340c0e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EKJmhQxTcYLh77lB0pC2gT+5UrGgMbsv7QuQaQkxjaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:51:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "089dahoxr8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/61f7de22-aac8-4012-8ecd-f19e9d340c0e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EKJmhQxTcYLh77lB0pC2gT+5UrGgMbsv7QuQaQkxjaI="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/61f7de22-aac8-4012-8ecd-f19e9d340c0e.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\61f7de22-aac8-4012-8ecd-f19e9d340c0e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EKJmhQxTcYLh77lB0pC2gT+5UrGgMbsv7QuQaQkxjaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:51:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EKJmhQxTcYLh77lB0pC2gT+5UrGgMbsv7QuQaQkxjaI="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/66a149d6-8a47-4f07-ab09-38087454a044.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\66a149d6-8a47-4f07-ab09-38087454a044.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4iE6jhpwcaHbpQBH5ub+BM+IQsxIRH04/Dn5QHsLV2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:43:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4iE6jhpwcaHbpQBH5ub+BM+IQsxIRH04/Dn5QHsLV2Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/66a149d6-8a47-4f07-ab09-38087454a044.u43tll0yvl.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\66a149d6-8a47-4f07-ab09-38087454a044.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4iE6jhpwcaHbpQBH5ub+BM+IQsxIRH04/Dn5QHsLV2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:43:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u43tll0yvl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/66a149d6-8a47-4f07-ab09-38087454a044.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4iE6jhpwcaHbpQBH5ub+BM+IQsxIRH04/Dn5QHsLV2Q="
         }
       ]
     },
@@ -11017,8 +11780,8 @@
       ]
     },
     {
-      "Route": "images/products/9ce16001-c261-40c4-ad61-87d3f3878475.jpg",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\9ce16001-c261-40c4-ad61-87d3f3878475.jpg",
+      "Route": "images/products/8b79c41e-e998-46fd-b885-f41c1b32338c.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\8b79c41e-e998-46fd-b885-f41c1b32338c.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11027,7 +11790,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30975"
+          "Value": "22503"
         },
         {
           "Name": "Content-Type",
@@ -11035,11 +11798,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UxBgi+bOzdSk2TV8kbtegRci/Fg8N+hiySsK9sp9tKA=\""
+          "Value": "\"E6Bnrdke5ZP/+j8zPLflDqHNxlEMjLP3MdyLK5mivNg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 17:29:34 GMT"
+          "Value": "Fri, 06 Jun 2025 17:43:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11049,13 +11812,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UxBgi+bOzdSk2TV8kbtegRci/Fg8N+hiySsK9sp9tKA="
+          "Value": "sha256-E6Bnrdke5ZP/+j8zPLflDqHNxlEMjLP3MdyLK5mivNg="
         }
       ]
     },
     {
-      "Route": "images/products/9ce16001-c261-40c4-ad61-87d3f3878475.xb821m6tjs.jpg",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\9ce16001-c261-40c4-ad61-87d3f3878475.jpg",
+      "Route": "images/products/8b79c41e-e998-46fd-b885-f41c1b32338c.xb01s75pcl.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\8b79c41e-e998-46fd-b885-f41c1b32338c.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11064,7 +11827,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30975"
+          "Value": "22503"
         },
         {
           "Name": "Content-Type",
@@ -11072,11 +11835,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UxBgi+bOzdSk2TV8kbtegRci/Fg8N+hiySsK9sp9tKA=\""
+          "Value": "\"E6Bnrdke5ZP/+j8zPLflDqHNxlEMjLP3MdyLK5mivNg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 17:29:34 GMT"
+          "Value": "Fri, 06 Jun 2025 17:43:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11086,15 +11849,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xb821m6tjs"
+          "Value": "xb01s75pcl"
         },
         {
           "Name": "label",
-          "Value": "images/products/9ce16001-c261-40c4-ad61-87d3f3878475.jpg"
+          "Value": "images/products/8b79c41e-e998-46fd-b885-f41c1b32338c.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UxBgi+bOzdSk2TV8kbtegRci/Fg8N+hiySsK9sp9tKA="
+          "Value": "sha256-E6Bnrdke5ZP/+j8zPLflDqHNxlEMjLP3MdyLK5mivNg="
         }
       ]
     },
@@ -11181,8 +11944,8 @@
       ]
     },
     {
-      "Route": "images/products/d72273c1-5bb0-4d17-a8ed-a1a48c0f2b6e.p0ybdqv4ip.PNG",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\d72273c1-5bb0-4d17-a8ed-a1a48c0f2b6e.PNG",
+      "Route": "images/products/c283fc05-be8e-4455-8f17-abc062e7e1f2.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\c283fc05-be8e-4455-8f17-abc062e7e1f2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11191,64 +11954,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16881"
+          "Value": "21231"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"B7oj3e/YWEivs+wkw+NK7lAm+3w2A4id/JwYxfWlJv8=\""
+          "Value": "\"hazHxHfz7LPwVUL/rYJ1Y5XzniyTJNbGw9Jx7yXite0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 17:30:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "p0ybdqv4ip"
-        },
-        {
-          "Name": "label",
-          "Value": "images/products/d72273c1-5bb0-4d17-a8ed-a1a48c0f2b6e.PNG"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-B7oj3e/YWEivs+wkw+NK7lAm+3w2A4id/JwYxfWlJv8="
-        }
-      ]
-    },
-    {
-      "Route": "images/products/d72273c1-5bb0-4d17-a8ed-a1a48c0f2b6e.PNG",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\d72273c1-5bb0-4d17-a8ed-a1a48c0f2b6e.PNG",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16881"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"B7oj3e/YWEivs+wkw+NK7lAm+3w2A4id/JwYxfWlJv8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 17:30:58 GMT"
+          "Value": "Fri, 06 Jun 2025 17:50:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11258,7 +11976,216 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-B7oj3e/YWEivs+wkw+NK7lAm+3w2A4id/JwYxfWlJv8="
+          "Value": "sha256-hazHxHfz7LPwVUL/rYJ1Y5XzniyTJNbGw9Jx7yXite0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/c283fc05-be8e-4455-8f17-abc062e7e1f2.rgqeua1qt5.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\c283fc05-be8e-4455-8f17-abc062e7e1f2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hazHxHfz7LPwVUL/rYJ1Y5XzniyTJNbGw9Jx7yXite0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:50:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rgqeua1qt5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/c283fc05-be8e-4455-8f17-abc062e7e1f2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hazHxHfz7LPwVUL/rYJ1Y5XzniyTJNbGw9Jx7yXite0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/cad8c726-305f-4c24-8621-64bc7a7e2480.4qyw0u7qjx.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\cad8c726-305f-4c24-8621-64bc7a7e2480.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20889"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NGA2dsmT5Ee2RVNh+aNIaiIa577Hbca4+6L7d/cfae8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:40:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4qyw0u7qjx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/cad8c726-305f-4c24-8621-64bc7a7e2480.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NGA2dsmT5Ee2RVNh+aNIaiIa577Hbca4+6L7d/cfae8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/cad8c726-305f-4c24-8621-64bc7a7e2480.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\cad8c726-305f-4c24-8621-64bc7a7e2480.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20889"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NGA2dsmT5Ee2RVNh+aNIaiIa577Hbca4+6L7d/cfae8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:40:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NGA2dsmT5Ee2RVNh+aNIaiIa577Hbca4+6L7d/cfae8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/cb004058-57dc-4215-a167-68e9514f68be.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\cb004058-57dc-4215-a167-68e9514f68be.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "359363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6FB1QT3T8NjRX+T7zFm04nMmNj5b4w1Y4OX3iobkXFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:45:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6FB1QT3T8NjRX+T7zFm04nMmNj5b4w1Y4OX3iobkXFM="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/cb004058-57dc-4215-a167-68e9514f68be.svagkwkj6q.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\cb004058-57dc-4215-a167-68e9514f68be.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "359363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6FB1QT3T8NjRX+T7zFm04nMmNj5b4w1Y4OX3iobkXFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:45:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "svagkwkj6q"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/cb004058-57dc-4215-a167-68e9514f68be.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6FB1QT3T8NjRX+T7zFm04nMmNj5b4w1Y4OX3iobkXFM="
         }
       ]
     },
@@ -11345,8 +12272,8 @@
       ]
     },
     {
-      "Route": "images/products/e0ae3a0e-a618-492f-8a83-9aa6dc929e01.jpg",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\e0ae3a0e-a618-492f-8a83-9aa6dc929e01.jpg",
+      "Route": "images/products/ef73be07-9bb9-4a6a-999c-11ffde8722a3.1izhtdhiza.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\ef73be07-9bb9-4a6a-999c-11ffde8722a3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11355,7 +12282,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231514"
+          "Value": "112498"
         },
         {
           "Name": "Content-Type",
@@ -11363,48 +12290,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0=\""
+          "Value": "\"BxE2ckAwABrn8nlxiOWQvCW+TYI/L6B/fl2evJJ4des=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 17:30:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0="
-        }
-      ]
-    },
-    {
-      "Route": "images/products/e0ae3a0e-a618-492f-8a83-9aa6dc929e01.qu02bi53xr.jpg",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\e0ae3a0e-a618-492f-8a83-9aa6dc929e01.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "231514"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 17:30:09 GMT"
+          "Value": "Fri, 06 Jun 2025 17:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11414,15 +12304,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qu02bi53xr"
+          "Value": "1izhtdhiza"
         },
         {
           "Name": "label",
-          "Value": "images/products/e0ae3a0e-a618-492f-8a83-9aa6dc929e01.jpg"
+          "Value": "images/products/ef73be07-9bb9-4a6a-999c-11ffde8722a3.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LgxiK9BiUv+ffbXGdEDx0ttl8j8mnx5rrDRWdsAysd0="
+          "Value": "sha256-BxE2ckAwABrn8nlxiOWQvCW+TYI/L6B/fl2evJJ4des="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/ef73be07-9bb9-4a6a-999c-11ffde8722a3.jpg",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\images\\products\\ef73be07-9bb9-4a6a-999c-11ffde8722a3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112498"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BxE2ckAwABrn8nlxiOWQvCW+TYI/L6B/fl2evJJ4des=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 17:46:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BxE2ckAwABrn8nlxiOWQvCW+TYI/L6B/fl2evJJ4des="
         }
       ]
     },
@@ -15117,662 +16044,6 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204136"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536547"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "73kdqttayv"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536547"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8inm30yfxf"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204136"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mpyigms19s"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "203803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4gxs3k148c"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162825"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9b9oa1qrmt"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162825"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "661035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fctod5rc9n"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "661035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "203803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ve6x09088i"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
-        }
-      ]
-    },
-    {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
       "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
@@ -17741,6 +18012,662 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "73kdqttayv"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mpyigms19s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gxs3k148c"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9b9oa1qrmt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "661035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fctod5rc9n"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "661035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ve6x09088i"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
@@ -18807,8 +19734,8 @@
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18817,7 +19744,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "288580"
+          "Value": "19385"
         },
         {
           "Name": "Content-Type",
@@ -18825,7 +19752,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
+          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
         },
         {
           "Name": "Last-Modified",
@@ -18839,21 +19766,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fwhahm2icz"
+          "Value": "47otxtyo56"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery/dist/jquery.js"
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
         }
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18862,7 +19789,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "288580"
+          "Value": "19385"
         },
         {
           "Name": "Content-Type",
@@ -18870,7 +19797,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
+          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
         },
         {
           "Name": "Last-Modified",
@@ -18884,13 +19811,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
         }
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18899,15 +19826,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "137972"
+          "Value": "5824"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/plain"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
         },
         {
           "Name": "Last-Modified",
@@ -18921,21 +19848,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5pze98is44"
+          "Value": "4v8eqarkd7"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery/dist/jquery.min.map"
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
         }
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18944,7 +19871,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "89501"
+          "Value": "5824"
         },
         {
           "Name": "Content-Type",
@@ -18952,7 +19879,44 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
         },
         {
           "Name": "Last-Modified",
@@ -18966,21 +19930,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dd6z7egasc"
+          "Value": "356vix0kms"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery/dist/jquery.min.js"
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
         }
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18989,15 +19953,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "89501"
+          "Value": "1139"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
-          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
         },
         {
           "Name": "Last-Modified",
@@ -19011,126 +19975,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "137972"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mlv21k5csn"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/LICENSE.txt"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
         }
       ]
     },
@@ -19545,8 +20390,8 @@
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19555,7 +20400,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19385"
+          "Value": "288580"
         },
         {
           "Name": "Content-Type",
@@ -19563,7 +20408,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
         },
         {
           "Name": "Last-Modified",
@@ -19577,21 +20422,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "47otxtyo56"
+          "Value": "fwhahm2icz"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+          "Value": "lib/jquery/dist/jquery.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Route": "lib/jquery/dist/jquery.js",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19600,7 +20445,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19385"
+          "Value": "288580"
         },
         {
           "Name": "Content-Type",
@@ -19608,7 +20453,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
         },
         {
           "Name": "Last-Modified",
@@ -19622,13 +20467,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19637,89 +20482,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5824"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4v8eqarkd7"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5824"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1139"
+          "Value": "137972"
         },
         {
           "Name": "Content-Type",
@@ -19727,7 +20490,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
         },
         {
           "Name": "Last-Modified",
@@ -19741,21 +20504,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "356vix0kms"
+          "Value": "5pze98is44"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+          "Value": "lib/jquery/dist/jquery.min.map"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19764,15 +20527,60 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1139"
+          "Value": "89501"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/plain"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dd6z7egasc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
         },
         {
           "Name": "Last-Modified",
@@ -19786,7 +20594,126 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.map",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlv21k5csn"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "E:\\Coding\\CSharp\\AspNetCore\\Projects\\Shop\\Shop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jan 2023 11:04:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
         }
       ]
     },

@@ -10,7 +10,7 @@ namespace Shop.Entities.Models
     public class OrderDetail
     {
         public int Id { get; set; }
-        public int OrderId { get; set; }
+        public int OrderHeaderId { get; set; }
         [ValidateNever]
         public OrderHeader orderHeader { get; set; }
         public int ProductId { get; set; }

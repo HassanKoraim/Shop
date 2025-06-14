@@ -24,8 +24,8 @@
             <td>@item.Description</td>
             <td>@item.CreatedTime</td>
             <td>
-                <a href="/Category/Edit/@item.Id" class="btn btn-success">Edit</a>
-                <a href="/Category/Delete/@item.Id" class="btn btn-danger">Delete</a>
+                <a asp-area="Admin" asp-Controller="Category" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-success">Edit</a>
+                <a asp-area="Admin" asp-Controller="Category" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
             </td>
         </tr>
         }

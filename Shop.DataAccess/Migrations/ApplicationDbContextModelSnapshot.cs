@@ -263,7 +263,7 @@ namespace Shop.DataAccess.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("OrderId")
+                    b.Property<int>("OrderHeaderId")
                         .HasColumnType("int");
 
                     b.Property<int>("ProductId")
@@ -272,17 +272,14 @@ namespace Shop.DataAccess.Migrations
                     b.Property<int>("count")
                         .HasColumnType("int");
 
-                    b.Property<int>("orderHeaderId")
-                        .HasColumnType("int");
-
                     b.Property<decimal>("price")
                         .HasColumnType("decimal(18,2)");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("ProductId");
+                    b.HasIndex("OrderHeaderId");
 
-                    b.HasIndex("orderHeaderId");
+                    b.HasIndex("ProductId");
 
                     b.ToTable("OrderDetails");
                 });
@@ -485,15 +482,15 @@ namespace Shop.DataAccess.Migrations
 
             modelBuilder.Entity("Shop.Entities.Models.OrderDetail", b =>
                 {
-                    b.HasOne("Shop.Entities.Models.Product", "product")
+                    b.HasOne("Shop.Entities.Models.OrderHeader", "orderHeader")
                         .WithMany()
-                        .HasForeignKey("ProductId")
+                        .HasForeignKey("OrderHeaderId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Shop.Entities.Models.OrderHeader", "orderHeader")
+                    b.HasOne("Shop.Entities.Models.Product", "product")
                         .WithMany()
-                        .HasForeignKey("orderHeaderId")
+                        .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -504,13 +501,13 @@ namespace Shop.DataAccess.Migrations
 
             modelBuilder.Entity("Shop.Entities.Models.OrderHeader", b =>
                 {
-                    b.HasOne("Shop.Entities.Models.ApplicationUser", "applicationUser")
+                    b.HasOne("Shop.Entities.Models.ApplicationUser", "ApplicationUser")
                         .WithMany()
                         .HasForeignKey("ApplicationUserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("applicationUser");
+                    b.Navigation("ApplicationUser");
                 });
 
             modelBuilder.Entity("Shop.Entities.Models.Product", b =>

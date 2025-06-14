@@ -8,6 +8,7 @@ using System.Security.Claims;
 namespace Shop.Web.Areas.Customer.Controllers
 {
     [Area("Customer")]
+    [Authorize]
     public class HomeController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

@@ -23,6 +23,7 @@
 
     <!-- Razor runtime compilation (optional) -->
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="8.0.7" />
+    <PackageReference Include="Stripe.net" Version="48.2.0" />
   </ItemGroup>
 
   <ItemGroup>

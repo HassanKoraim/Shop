@@ -76,7 +76,13 @@ namespace Shop.DataAccess.Implementation
         }
         public void RemoveRange(IEnumerable<T> entity)
         {
-            throw new NotImplementedException();
+            if(entity != null)
+            {
+                foreach(var item in entity)
+                {
+                    _dbSet.Remove(item);
+                }
+            }
         }
     }
 }

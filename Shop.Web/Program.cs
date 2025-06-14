@@ -5,12 +5,14 @@ using Shop.DataAccess.Data;
 using Shop.DataAccess.Implementation;
 using Shop.Entities.Repository;
 using myshop.Utilities;
+using Stripe;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(
         builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.Configure<StripeData>(builder.Configuration.GetSection("stripe"));
 // 2) ADD IDENTITY
 builder.Services
     .AddIdentity<IdentityUser, IdentityRole>(options =>
@@ -46,6 +48,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+StripeConfiguration.ApiKey = builder.Configuration.GetSection("stripe:Secretkey").Get<string>();
 
 app.UseAuthorization();
 

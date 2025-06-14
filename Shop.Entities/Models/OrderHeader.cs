@@ -12,7 +12,7 @@ namespace Shop.Entities.Models
         public int Id { get; set; }
         public string ApplicationUserId { get; set; }
         [ValidateNever]
-        public ApplicationUser applicationUser { get; set; }
+        public ApplicationUser ApplicationUser { get; set; }
         public DateTime OrderDate { get; set; } = DateTime.Now;
         public DateTime ShippingDate { get; set; }
         public decimal TotalPrice { get; set; }
