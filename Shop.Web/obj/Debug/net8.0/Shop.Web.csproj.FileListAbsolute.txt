@@ -555,12 +555,6 @@ E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\scopedcss\pr
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\staticwebassets.build.json
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\staticwebassets.development.json
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\staticwebassets\msbuild.Shop.Web.Microsoft.AspNetCore.StaticWebAssets.props
-E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\staticwebassets\msbuild.Shop.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Shop.Web.props
-E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Shop.Web.props
-E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Shop.Web.props
-E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\staticwebassets.pack.json
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\Shop.Web.csproj.Up2Date
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\Shop.Web.dll
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\refint\Shop.Web.dll
@@ -574,3 +568,9 @@ E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\bin\Debug\net8.0\System.Clien
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\bin\Debug\net8.0\myshop.Utilities.dll
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\bin\Debug\net8.0\myshop.Utilities.pdb
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\bin\Debug\net8.0\Stripe.net.dll
+E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

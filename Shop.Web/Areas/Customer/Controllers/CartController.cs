@@ -102,7 +102,6 @@ namespace Shop.Web.Areas.Customer.Controllers
                 _unitOfWork.OrderDetail.Add(orderDetail);
                 _unitOfWork.Complete();
             }
-            //https://c8b7-41-236-57-177.ngrok-free.app/
             var domain = "https://localhost:7004/";
             var options = new SessionCreateOptions
             {

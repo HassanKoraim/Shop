@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Category>
+@{
+    ViewBag.PageTitle = "Order Management";
+    ViewBag.CardTitle = "View Order";
+}
+
+<br />
+<table id="myTable" class="table w-100">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Name</td>
+            <td>Phone</td>
+            <td>Email</td>
+            <td>Order Status</td>
+            <td>Order Total</td>
+            <td>Actions</td>
+        </tr>
+    </thead>
+</table>
+@section Scripts {
+    <script src="~/js/order.js"></script>
+}
