@@ -48,7 +48,8 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-StripeConfiguration.ApiKey = builder.Configuration.GetSection("stripe:Secretkey").Get<string>();
+//StripeConfiguration.ApiKey = builder.Configuration.GetSection("stripe:Secretkey").Get<string>();
+var stripeKey = Environment.GetEnvironmentVariable("STRIPE_SECRET_KEY");
 
 app.UseAuthorization();
 
