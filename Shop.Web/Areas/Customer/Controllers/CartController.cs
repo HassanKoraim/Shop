@@ -132,8 +132,6 @@ namespace Shop.Web.Areas.Customer.Controllers
             var service = new SessionService();
             Session session = service.Create(options);
             shoppingCartVM.OrderHeader.SessionId = session.Id;
-            shoppingCartVM.OrderHeader.PaymentIntendId = session.SetupIntentId;
-
             _unitOfWork.Complete();
 
             Response.Headers.Add("Location", session.Url);

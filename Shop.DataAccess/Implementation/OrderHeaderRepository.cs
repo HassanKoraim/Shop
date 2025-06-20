@@ -32,13 +32,20 @@ namespace Shop.DataAccess.Implementation
             }
         }
 
-        public void UpdateStatus(int Id, string OrderStatus, string PaymentStatus)
+        public void UpdateStatus(int Id, string? OrderStatus, string? PaymentStatus)
         {
             var orderHeader = _context.OrderHeaders.FirstOrDefault(o => o.Id == Id);
             if(orderHeader != null)
             {
-                orderHeader.OrderStatus = OrderStatus;
-                orderHeader.PaymentStatus = PaymentStatus;
+                if (OrderStatus != null)
+                {
+                    orderHeader.OrderStatus = OrderStatus;
+                }
+                if (PaymentStatus != null)
+                {
+                    orderHeader.PaymentStatus = PaymentStatus;
+                    orderHeader.PaymentDate = DateTime.Now;
+                }
             }
             else
             {

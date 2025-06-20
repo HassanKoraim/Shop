@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using myshop.Utilities;
 using Shop.DataAccess.Data;
+using Shop.Entities.ViewModels;
 using System.Security.Claims;
 
 namespace Shop.Web.Areas.Admin.Controllers
@@ -33,10 +34,12 @@ namespace Shop.Web.Areas.Admin.Controllers
             {
                 // The user will locked for a year ago
                 user.LockoutEnd = DateTime.Now.AddYears(1);
+                TempData["Delete"] = $"{user.Name} has Locked";
             }
             else  // The lock is lock
             {
                 user.LockoutEnd = null;
+                TempData["Create"] = $"{user.Name} has UnLocked";
             }
             _context.SaveChanges();
             return RedirectToAction("Index");

@@ -11,6 +11,6 @@ namespace Shop.Entities.Repository
     public interface IOrderHeaderRepository : IGenericRepository<OrderHeader>
     {
         void Update(OrderHeader orderHeader);
-        void UpdateStatus(int Id, string OrderStatus, string PaymentStatus);
+        void UpdateStatus(int Id, string? OrderStatus, string? PaymentStatus);
     }
 }
