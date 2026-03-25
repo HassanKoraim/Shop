@@ -1,5 +1,9 @@
 ﻿@model IEnumerable<ApplicationUser>;
+@using X.PagedList.Mvc.Core
+@using X.PagedList
+@using Microsoft.AspNetCore.Identity;
 
+<script src="~/js/user-delete.js"></script>
 @{
     ViewBag.PageTitle = "User Management";
     ViewBag.CardTitle = "View User";
@@ -14,6 +18,8 @@
         <td>Name</td>
         <td>Email</td>
         <td>Address</td>
+        @*Add Role name*@
+        
         <td>PhoneNumber</td>
         <td>Action</td>
     </tr>
@@ -39,11 +45,21 @@
                         <i class="fas fa-lock"></i>
                     </a>
                 }
-              
-                 <a href="/Category/Delete/@item.Id" class="btn btn-danger">Delete</a>
+                <a onClick="DeleteUser('/Admin/User/Delete/@item.Id')" class="btn btn-danger">Delete</a>
            </td> 
         </tr>
         }
         
     
 </table>
+<div class="container px-4 px-lg-5 mt-5">
+    <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+
+        @Html.PagedListPager((IPagedList)Model, page => Url.Action("Index", new { page = page }),
+        new PagedListRenderOptions
+        {
+            LiElementClasses = new string[] { "page-item" },
+            PageClasses = new string[] { "page-link" }
+        })
+    </div>
+</div>

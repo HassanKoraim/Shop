@@ -16,3 +16,5 @@ E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.DataAccess\obj\Debug\net8.0\refin
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.DataAccess\obj\Debug\net8.0\Shop.DataAccess.pdb
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.DataAccess\obj\Debug\net8.0\Shop.DataAccess.genruntimeconfig.cache
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.DataAccess\obj\Debug\net8.0\ref\Shop.DataAccess.dll
+E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.DataAccess\bin\Debug\net8.0\myshop.Utilities.dll
+E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.DataAccess\bin\Debug\net8.0\myshop.Utilities.pdb

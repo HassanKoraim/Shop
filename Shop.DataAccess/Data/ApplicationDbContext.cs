@@ -7,7 +7,7 @@ using Shop.Entities.Models;
 
 namespace Shop.DataAccess.Data
 {
-    public class ApplicationDbContext : IdentityDbContext<IdentityUser>
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
@@ -27,7 +27,12 @@ namespace Shop.DataAccess.Data
             modelBuilder.Entity<Product>()
                 .Property(p => p.Price)
                 .HasPrecision(18, 2); // Precision = 18 digits, Scale = 2 decimal places
-
+            modelBuilder.Entity<OrderHeader>()
+       .Property(o => o.TotalPrice)
+       .HasPrecision(18, 2);
+            modelBuilder.Entity<OrderDetail>()
+            .Property(o => o.price)
+            .HasPrecision(18, 2);
             // Add other configurations if needed
             modelBuilder.Entity<IdentityUserToken<string>>(b =>
             {

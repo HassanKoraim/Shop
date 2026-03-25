@@ -1,4 +1,8 @@
-﻿@model IEnumerable<Category>
+﻿@using X.PagedList.Mvc.Core
+@using X.PagedList
+
+<script src="~/js/category-delete.js"></script>
+@model IEnumerable<Category>
 @{
     ViewBag.PageTitle = "Category Management";
     ViewBag.CardTitle = "View Category";
@@ -8,27 +12,39 @@
 </div>
 <br />
 <table class="table w-100">
-    <tr>
-        <td>Id</td>
-        <td>Name</td>
-        <td>Description</td>
-        <td>Created Time</td>
-        <td>Actions</td>
-    </tr>
-    
+    <thead class="text-bold">
+        <tr>
+            <td>Id</td>
+            <td>Name</td>
+            <td>Description</td>
+            <td>Created Time</td>
+            <td>Actions</td>
+        </tr>
+    </thead>
         @foreach (var item in Model)
         {
         <tr>
             <td>@item.Id</td>
             <td>@item.Name</td>
-            <td>@item.Description</td>
+            <td>@Html.Raw(item.Description)</td>
             <td>@item.CreatedTime</td>
             <td>
                 <a asp-area="Admin" asp-Controller="Category" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-success">Edit</a>
-                <a asp-area="Admin" asp-Controller="Category" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                @* <a asp-area="Admin" asp-Controller="Category" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a> *@
+                <a onClick="deleteProduct('/Admin/Category/Delete/@item.Id')" class="btn btn-danger">Delete</a>
             </td>
         </tr>
         }
-        
-    
 </table>
+
+<div class="container px-4 px-lg-5 mt-5">
+    <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+
+        @Html.PagedListPager((IPagedList)Model, page => Url.Action("Index", new { page = page }),
+        new PagedListRenderOptions
+        {
+            LiElementClasses = new string[] { "page-item" },
+            PageClasses = new string[] { "page-link" }
+        })
+    </div>
+</div>

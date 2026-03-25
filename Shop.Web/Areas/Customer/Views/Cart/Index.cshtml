@@ -69,7 +69,7 @@
                             </div>
 
                             <!-- Right column: Cart Summary -->
-                            <div class="col-lg-5">
+                            @* <div class="col-lg-5">
                                 <!-- Paste your card summary and payment form code here -->
                                 <!-- This keeps the summary beside or under the cart items depending on screen size -->
 
@@ -92,8 +92,8 @@
                                             <i class="fab fa-cc-amex fa-2x me-2"></i>
                                         </a>
                                         <a href="#!" type="submit" class="text-white"><i class="fab fa-cc-paypal fa-2x"></i></a>
-
-                                        <form class="mt-4">
+ *@
+@*                                         <form class="mt-4">
                                             <div data-mdb-input-init class="form-outline form-white mb-4">
                                                 <input type="text" id="typeName" class="form-control form-control-lg" siez="17"
                                                        placeholder="Cardholder's Name" />
@@ -123,7 +123,7 @@
                                                 </div>
                                             </div>
 
-                                        </form>
+                                        </form> *@
 
                                         <hr class="my-4">
 
@@ -142,14 +142,26 @@
                                             <p class="mb-2">$ @(Model.TotalPrice + shippingCost)</p>
                                         </div>
 
-                                        <a asp-Controller="Cart" asp-action="Summary"  type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-info btn-block btn-lg">
-                                            <div class="d-flex justify-content-between">
-                                                <span>$ @(Model.TotalPrice + shippingCost)</span>
-                                                <span> &nbsp; Checkout <i class="fas fa-long-arrow-alt-right ms-2"></i></span>
-                                            </div>
-                                        </a>
-
+                            @if (Model.CartsList != null && Model.CartsList.Any())  //handle this if Contidion to check if cart is empty
+                            {
+                                <a asp-Controller="Cart" asp-action="Summary"  type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-info btn-block btn-lg">
+                                    <div class="d-flex justify-content-between">
+                                        <span>$ @(Model.TotalPrice + shippingCost)</span>
+                                        <span> &nbsp; Checkout <i class="fas fa-long-arrow-alt-right ms-2"></i></span>
                                     </div>
+                                </a>
+                            }
+                            else
+                            {
+                                @* <a href="#" type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-info btn-block btn-lg">
+                                    <div class="d-flex justify-content-between">
+                                        <span>$ @(Model.TotalPrice + shippingCost)</span>
+                                        <span> &nbsp; Checkout <i class="fas fa-long-arrow-alt-right ms-2"></i></span>
+                                    </div>
+                                </a> *@
+                                <div class="alert alert-warning text-center">Your cart is empty</div>
+                            }
+                        </div>
                                 </div>
 
 

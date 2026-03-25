@@ -1,12 +1,15 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Shop.DataAccess.Data;
 using Shop.Entities.Models;
 using Shop.Entities.Repository;
 using System.Linq.Expressions;
+using X.PagedList.Extensions;
 
 namespace Shop.Web.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -14,9 +17,11 @@ namespace Shop.Web.Areas.Admin.Controllers
         {
             _unitOfWork = unitOfWork;
         }
-        public IActionResult Index()
+        public IActionResult Index(int? page)
         {
-            var categories = _unitOfWork.Category.GetAll();
+            int PageNumber = page ?? 1;
+            int PageSize = 10;
+            var categories = _unitOfWork.Category.GetAll().ToPagedList(PageNumber, PageSize);
             return View(categories);
         }
         
@@ -68,7 +73,7 @@ namespace Shop.Web.Areas.Admin.Controllers
             }
             return View(category);
         }
-        [HttpGet]
+       /* [HttpGet]
         public IActionResult Delete(int? id)
         {
             if (id != null || id != 0)
@@ -81,21 +86,23 @@ namespace Shop.Web.Areas.Admin.Controllers
                 }
             }
             return NotFound();
-        }
+        }*/
 
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public IActionResult Delete(Category category)
+        [HttpDelete]
+      //  [ValidateAntiForgeryToken]
+        public IActionResult Delete(int id)
         {
+            Category category = _unitOfWork.Category.GetFirstOrDefault(x => x.Id == id);
             if (category != null)
             {
                 Expression<Func<Category, bool>> predicate = c => c.Id == category.Id;
                 _unitOfWork.Category.Remove(predicate);
                 _unitOfWork.Complete();
-                TempData["Delete"] = $"{category.Name} has deleted successfully";
-                return RedirectToAction(nameof(Index));
+               // TempData["Delete"] = $"{category.Name} has deleted successfully";
+                return Json(new { success = true, message = "Category has been deleted successfully" });
+                //return RedirectToAction(nameof(Index));
             }
-            return NotFound();
+            return Json(new { success = false, message = "Error while deleting" });
         }
 
 

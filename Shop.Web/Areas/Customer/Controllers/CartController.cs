@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using myshop.Utilities;
 using Shop.Entities.Models;
@@ -168,19 +169,22 @@ namespace Shop.Web.Areas.Customer.Controllers
             if(cart.Count <= 1)
             {
                 _unitOfWork.ShoppingCart.Remove(cart);
-                _unitOfWork.Complete();
-                var claimsIdentity = (ClaimsIdentity)User.Identity;
-                var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
+                var count = _unitOfWork.ShoppingCart.GetAll(x => x.ApplicationUserId == cart.ApplicationUserId).ToList().Count() -1;
+                HttpContext.Session.SetInt32(SD.SessionKey, count);
+              /*  var claimsIdentity = (ClaimsIdentity)User.Identity;
+                var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);*/
                 //cart.ApplicationUserId = claim.Value;
-                ShoppingCartVM shoppingCartVM = new ShoppingCartVM()
+               /* ShoppingCartVM shoppingCartVM = new ShoppingCartVM()
                 {
                     CartsList = _unitOfWork.ShoppingCart.
                     GetAll(x => x.ApplicationUserId == claim.Value, includeWord: "Product"),
-                };
-                if(shoppingCartVM.CartsList.Count() == 0)
+                };*/
+                
+                
+/*                if (shoppingCartVM.CartsList.Count() == 0)
                 {
                     return RedirectToAction("Index", "Home");
-                }
+                }*/
             }
             else
             {
@@ -204,6 +208,8 @@ namespace Shop.Web.Areas.Customer.Controllers
                     CartsList = _unitOfWork.ShoppingCart.
                     GetAll(x => x.ApplicationUserId == claim.Value, includeWord: "Product"),
                 };
+                var count = _unitOfWork.ShoppingCart.GetAll(x => x.ApplicationUserId == cart.ApplicationUserId).ToList().Count();
+                HttpContext.Session.SetInt32(SD.SessionKey, count);
                 if (shoppingCartVM.CartsList.Count() == 0)
                 {
                     return RedirectToAction("Index", "Home");

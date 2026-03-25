@@ -1,14 +1,17 @@
 ﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using myshop.Utilities;
 using Shop.DataAccess.Implementation;
 using Shop.Entities.Models;
 using Shop.Entities.Repository;
 using System.Security.Claims;
+using X.PagedList.Extensions;
 
 namespace Shop.Web.Areas.Customer.Controllers
 {
     [Area("Customer")]
-    [Authorize]
+    //[Authorize]
     public class HomeController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -16,9 +19,11 @@ namespace Shop.Web.Areas.Customer.Controllers
         {
             _unitOfWork = unitOfWork;
         }
-        public IActionResult Index()
+        public IActionResult Index(int? page)
         {
-            var products = _unitOfWork.Product.GetAll();
+            var PageNumber = page ?? 1;
+            var PageSize = 8;
+            var products = _unitOfWork.Product.GetAll().ToPagedList(PageNumber, PageSize);
             return View(products);
         }
         [HttpGet]
@@ -50,13 +55,15 @@ namespace Shop.Web.Areas.Customer.Controllers
             if (cartObj == null)
             {
                 _unitOfWork.ShoppingCart.Add(cart);
+                _unitOfWork.Complete();
+                HttpContext.Session.SetInt32(SD.SessionKey,
+                    _unitOfWork.ShoppingCart.GetAll(x => x.ApplicationUserId == claim.Value).ToList().Count());
             }
             else
             {
                 _unitOfWork.ShoppingCart.IncreaseCount(cartObj, cart.Count);
+                _unitOfWork.Complete();
             }
-
-            _unitOfWork.Complete();
             return RedirectToAction("Index" , "Cart");
         }
     }

@@ -2,26 +2,34 @@
 using Microsoft.AspNetCore.Mvc;
 using myshop.Utilities;
 using Shop.DataAccess.Data;
+using Shop.DataAccess.Implementation;
+using Shop.Entities.Repository;
 using Shop.Entities.ViewModels;
 using System.Security.Claims;
+using X.PagedList.Extensions;
 
 namespace Shop.Web.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = "Admin")]
+    [Authorize(Roles = SD.AdminRole)]
     public class UserController : Controller
     {
         private readonly ApplicationDbContext _context;
-        public UserController(ApplicationDbContext context)
+        private readonly IUnitOfWork _unitOfWork;
+        public UserController(ApplicationDbContext context, IUnitOfWork unitOfWork)
         {
             _context = context;
+            _unitOfWork = unitOfWork;
         }
-        public IActionResult Index()
+        public IActionResult Index(int? page)
         {
+            //_context.Users();
+            int PageNumber = page ?? 1;
+            int PageSize = 10;
             var claimsIdentity = (ClaimsIdentity)User.Identity;
             var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
             string userId = claim.Value;
-            return View(_context.ApplicationUsers.Where(x => x.Id != userId).ToList());
+            return View(_context.ApplicationUsers.Where(x => x.Id != userId).ToList().ToPagedList(PageNumber,PageSize));
         }
         public IActionResult LockUnlock(string? id)
         {
@@ -43,6 +51,18 @@ namespace Shop.Web.Areas.Admin.Controllers
             }
             _context.SaveChanges();
             return RedirectToAction("Index");
+        }
+
+        public IActionResult Delete(string id)
+        {
+            var user = _context.ApplicationUsers.FirstOrDefault(x => x.Id == id);
+            if(user != null)
+            {
+                _unitOfWork.ApplicationUser.Remove(user);
+                _unitOfWork.Complete();
+                return Json(new { success = true, message = "User has been deleted successfully" });
+            }
+            return Json(new { success = false, message = "Error while deleting" });
         }
     }
 }

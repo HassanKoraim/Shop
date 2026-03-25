@@ -573,4 +573,7 @@ E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\rjimswa.dswa
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\bin\Debug\net8.0\X.PagedList.dll
+E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
 E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Coding\CSharp\AspNetCore\Projects\Shop\Shop.Web\obj\Debug\net8.0\swae.build.ex.cache

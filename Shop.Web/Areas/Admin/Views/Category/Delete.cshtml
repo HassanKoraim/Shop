@@ -16,7 +16,9 @@
     </div>
     <div class="mb-3">
         <label asp-for="Description"></label>
-        <input asp-for="Description" readonly class="form-control" />
+        <sapn readonly class="form-control" >
+            @Html.Raw(Model.Description)
+        </sapn>
         <span asp-validation-for="Description" class="text-danger"></span>
     </div>
     <button class="btn btn-danger" type="submit">Delete</button>
